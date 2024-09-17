@@ -1,6 +1,6 @@
 **02/2021 - 07/2022**
 
-**Position : R&D Engineer, R&D Department**
+**Position : R&D Engineer, R&D Department**  
 _Systems Engineering Side_
 >> - FMEA,FMEDA,FTA analysis using Blocksim and yEd
 - System/Safety Engineering - Requirement Management (DOORS, Model , Life Cycle)
