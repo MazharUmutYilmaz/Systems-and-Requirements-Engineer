@@ -2,14 +2,17 @@
 
 **Position : R&D Engineer, R&D Department**  
 _Systems Engineering Side_
->> - FMEA,FMEDA,FTA analysis using Blocksim and yEd
-- System/Safety Engineering - Requirement Management (DOORS, Model , Life Cycle)
+- FMEA,FMEDA,FTA analysis using Blocksim and yEd
+- Systems/Safety Engineering - Requirement Management (DOORS, Model , Life Cycle)
 - SIL Certification (EN 50126, EN 50128, EN 50129, EN 50159)
 - Collaborative work with V&V Team located in abroad
-Python Developer Side 
-- Desktop application using Qt aiming to calculate the gap size of doors 
+_Python Developer Side_ 
+- Desktop application using Qt aiming to calculate the gap size of train doors accordingly changing location of train 
 - Project management with MS Project
-- People Counting application with Computer Vision
-- Predictive Maintenance with Machine Learning using Python programming language 
-and MATLAB 
+- People Counting application with Computer Vision (Using Python and Nvidia Jetson Nano) to calculate the number of people entering to or quitting from determined point
+- Predictive Maintenance with Machine Learning using Python programming language and MATLAB (MATLAB Machine Learning Toolbox) to develop a system workable on a TinyML system 
+   -> The system consists of datasets which are healthy datasets and different type of failure datasets. Using a variety of algorithms such as supervised and unsupervised, the system tries to understand
+whether given data is coming from healthy system or failed system. 
+  
+    
 
