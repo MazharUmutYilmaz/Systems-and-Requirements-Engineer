@@ -5,7 +5,7 @@ _Systems Engineering Side_
 - FMEA,FMEDA,FTA analysis using Blocksim and yEd
 - Systems/Safety Engineering - Requirement Management (DOORS, Model , Life Cycle)
 - SIL Certification (EN 50126, EN 50128, EN 50129, EN 50159)
-- Collaborative work with V&V Team located in abroad
+- Collaborative work with V&V Team 
 
   
 _Python Developer Side_ 
